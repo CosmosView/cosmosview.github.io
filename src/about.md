@@ -4,7 +4,7 @@ title: 关于
 slug: about
 date: 2024/05/20 10:20:00
 status: publish
-author: AlanDecode
+author: CosmosView
 categories: 
   - Maverick
   - Dev
