@@ -19,7 +19,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "CosmosView's Blog"
+site_name = "CosmosView的博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2024-05-20T10:25+08:00"
 author = "Cosmosview"
