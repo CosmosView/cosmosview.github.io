@@ -19,26 +19,21 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "Cosmosview's Blog"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+author = "Cosmosview"
+email = ""
+author_homepage = "https://cosmosview.github.io/Blog-With-GitHub-Boilerplate/about/"
+description = "话语教给我们很多，但善恶还是可以自明。"
+key_words = ['Maverick', 'CosmosView', 'blog']
 language = 'zh-CN'
 external_links = [
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "brief": "🏄‍ Powered by Maverick."
     },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
-    }
 ]
 nav = [
     {
@@ -60,20 +55,10 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/CosmosView",
         "icon": "gi gi-github"
     },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
-    }
 ]
 
 head_addon = r'''
