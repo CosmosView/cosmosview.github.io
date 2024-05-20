@@ -19,12 +19,12 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "Cosmosview's Blog"
+site_name = "CosmosView's Blog"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2024-05-20T10:25+08:00"
 author = "Cosmosview"
 email = ""
-author_homepage = "https://cosmosview.github.io/Blog-With-GitHub-Boilerplate/about/"
+author_homepage = "https://cosmosview.github.io/Blog-With-GitHub-Boilerplate/"
 description = "话语教给我们很多，但善恶还是可以自明。"
 key_words = ['Maverick', 'CosmosView', 'blog']
 language = 'zh-CN'
