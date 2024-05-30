@@ -3,7 +3,7 @@ layout: post
 title: 极光预报指北
 slug: Aurora-Forecast
 date: 2024-05-30 11:21
-status: draft
+status: publish
 author: CosmosView
 categories: 
   - 天文
