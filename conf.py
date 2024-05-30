@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "CosmosView/cosmosview.github.io@master"
 }
 
 # 站点设置
@@ -24,7 +24,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2024-05-20T10:25+08:00"
 author = "Cosmosview"
 email = ""
-author_homepage = "https://cosmosview.github.io/Blog-With-GitHub-Boilerplate/"
+author_homepage = "https://cosmosview.github.io/"
 description = "话语教给我们很多，但善恶还是可以自明。"
 key_words = ['Maverick', 'CosmosView', 'blog']
 language = 'zh-CN'
