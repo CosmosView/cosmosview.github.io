@@ -12,6 +12,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/Lunar-Eclipse/</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/Aurora-Forecast/</loc>
+    <lastmod>2024-05-31</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/typography/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>always</changefreq>
