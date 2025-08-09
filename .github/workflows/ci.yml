@@ -18,9 +18,9 @@ jobs:
         git submodule update --init --recursive
 
     - name: Set up Python
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.12.10
+        python-version: '3.12'
 
     - name: Install dependencies
       run: |
