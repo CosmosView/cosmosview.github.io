@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>CosmosView's Blog</title><updated>2025-04-22T13:34:09.090637+08:06</updated><author><name>Cosmosview</name></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><logo>/logo.png</logo><subtitle>话语教给我们很多，但善恶还是可以自明。</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2025-04-22T13:34:09.090729+00:00</updated><author><name>AlanDecode</name><uri>https://cosmosview.github.io/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>CosmosView's Blog</title><updated>2025-08-09T09:58:52.368685+08:06</updated><author><name>Cosmosview</name></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><logo>/logo.png</logo><subtitle>话语教给我们很多，但善恶还是可以自明。</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2025-08-09T09:58:52.368788+00:00</updated><author><name>AlanDecode</name><uri>https://cosmosview.github.io/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -78,7 +78,7 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/"/><published>2024-05-20T10:30:00+08:06</published></entry><entry><id>/archives/Aurora-Forecast/</id><title>极光预报指北</title><updated>2025-04-22T13:34:09.090681+00:00</updated><author><name>CosmosView</name><uri>https://cosmosview.github.io/</uri></author><content>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;神秘北极圈 阿拉斯加的山巅 谁的脸 出现海角的天边&lt;/em&gt; ——《欧若拉》张韵涵&lt;/p&gt;
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/"/><published>2024-05-20T10:30:00+08:06</published></entry><entry><id>/archives/Aurora-Forecast/</id><title>极光预报指北</title><updated>2025-08-09T09:58:52.368762+00:00</updated><author><name>CosmosView</name><uri>https://cosmosview.github.io/</uri></author><content>&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;神秘北极圈 阿拉斯加的山巅 谁的脸 出现海角的天边&lt;/em&gt; ——《欧若拉》张韵涵&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;figure style="flex: 91.52542372881356" &gt;&lt;img width="1080" height="590" src="/archives/assets/90a4a33150b54732709505678c346257.jpg" /&gt;&lt;figcaption&gt;挪威上空的极光和银河 Astronomy Picture of the Day 2023-12-12&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;作为一种绚丽的天文现象，&lt;strong&gt;极光&lt;/strong&gt;总是引人注目。当来自太阳的高能粒子与被地球磁场引导进入地球大气层，绚丽的极光便在它们与气体分子间的碰撞间产生了。要进行较为精确的极光预报，从各种数据中获取这些粒子与地球磁场的互动情况就显得尤为重要。当太阳活动剧烈时，在我国纬度最高的黑龙江和新疆北部地区有机会看到极光。2024年5月，强烈的太阳活动一度使得可见极光的界限推进到华北地区，北京、秦皇岛、甚至大连的天文爱好者们，都有幸一睹极光的真容。这十余年未见的强烈极光活动也为我们提供了一次难得的机会，探索如何预测极光的出现情况。本文将按极光发生时间顺序，以2024年5月的极光活动为例，介绍极光发展的全过程，并简要的阐述如何利用互联网上公开的各种数据，对极光活动进行预测。&lt;/p&gt;
@@ -107,4 +107,33 @@ _Z$）是最为重要的&lt;/strong&gt;。当该指标为&lt;strong&gt;负值&lt
 &lt;p&gt;NOAA极光预报模型：&lt;a href="https://www.swpc.noaa.gov/products/aurora-30-minute-forecast"&gt;NOAA-SWPC&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;碎碎念：有生之年，一定要去看一次极光！&lt;/p&gt;
-&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;选择SOHO-LASCO-Running Difference可以更好观察CME &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/Aurora-Forecast/"/><published>2024-05-31T10:50:00+08:06</published></entry></feed>
+&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;选择SOHO-LASCO-Running Difference可以更好观察CME &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/Aurora-Forecast/"/><published>2024-05-31T10:50:00+08:06</published></entry><entry><id>/archives/Lunar-Eclipse/</id><title>我的月食观测小记</title><updated>2025-08-09T09:58:52.368720+00:00</updated><author><name>CosmosView</name><uri>https://cosmosview.github.io/</uri></author><content>&lt;p&gt;作为最容易观测的天象之一，月食相比起其它重现期较长的天象，不是那么的引人注目。但在黑夜里望着明亮的月面渐渐滑入暗红色的地球阴影，得以一瞥我们的星球在夜空中投下的巨大轮廓，还是蛮有意思的一件事，因此每当有月食发生，我都会搬上椅子静静守候。随着观测次数的增加，以前的记忆也渐渐模糊，开一篇博文，记录一下各次观测的情况。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;2011年12月10日 月全食&lt;/h3&gt;
+&lt;p&gt;冬夜的大晴天，是个周六，在老家的窗口和天台蹲守了好久。刚刚回顾了一下时间，原来是22点以后开始全食，23点生光，记忆里熬到了很晚，果然小时候的时间观念和现在完全不同。&lt;/p&gt;
+&lt;p&gt;其实，当年6月还有另一次月全食，当时也有尝试观测，但是在凌晨，以当时的年纪可以说是对初亏、食既这些现象和时间毫无概念，在上半夜看着月亮的我错过了这一次月食。&lt;/p&gt;
+&lt;h3&gt;2014年10月8日 月全食&lt;/h3&gt;
+&lt;p&gt;月出阶段的全食，在低空看到了全食阶段，在生光到复原阶段才拍到了比较好的照片。
+&lt;figure style="flex: 66.66666666666667" &gt;&lt;img width="2048" height="1536" src="/archives/assets/b2c5ac1f25ca3de50e718c5c7ce3c881.jpg" /&gt;&lt;/figure&gt;
+&lt;figure style="flex: 66.66666666666667" &gt;&lt;img width="2048" height="1536" src="/archives/assets/c0defd2d4ee8816228dd334efb010cff.jpg" /&gt;&lt;/figure&gt;
+&lt;figure style="flex: 66.66666666666667" &gt;&lt;img width="2048" height="1536" src="/archives/assets/77e68cf407221204fba73a44253561d7.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;2015年4月4日 月全食&lt;/h3&gt;
+&lt;p&gt;同样在月出阶段全食，天气比上一次差，生光后才看到月亮。
+&lt;figure style="flex: 66.66666666666667" &gt;&lt;img width="2048" height="1536" src="/archives/assets/2f42518856652017f308af767ed6ed98.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;2018年1月31日 月全食&lt;/h3&gt;
+&lt;p&gt;恰逢冷空气南下准备阴转晴，还和天爱们一起到广场守候，可惜过了食甚还没放晴，遂回家，路上在生光之前一刻看到了月亮，又在楼下看到了复圆。&lt;/p&gt;
+&lt;h3&gt;2018年7月28日 月全食&lt;/h3&gt;
+&lt;p&gt;本世纪最长的一次月全食，食分1.61，夏天的水汽充盈，初亏到接近食既天气还可以，然后突然开始暴雨，最后只在云缝里看到了一眼血月，在线上和爱好者们熬了一整夜，有点小遗憾。&lt;/p&gt;
+&lt;h3&gt;2019年7月17日 月偏食&lt;/h3&gt;
+&lt;p&gt;天气不错，在低空看到了食甚。
+&lt;figure style="flex: 66.66666666666667" &gt;&lt;img width="1080" height="810" src="/archives/assets/68c8b774f23f41a6371e955afa68be0b.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;2021年5月26日 月全食&lt;/h3&gt;
+&lt;p&gt;在学校新建的大楼顶上看到了月出时的全食。
+&lt;figure style="flex: 66.66666666666667" &gt;&lt;img width="1440" height="1080" src="/archives/assets/521ac881cfcc96b5384fd8a05106e527.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;2021年11月19日 月偏食&lt;/h3&gt;
+&lt;p&gt;和上一次相似的月食，相似的地点，不同的是，阴天了，复圆之后才看到月亮。&lt;/p&gt;
+&lt;h3&gt;2022年11月8日 月全食&lt;/h3&gt;
+&lt;p&gt;这次更直接，一直在下雨。&lt;/p&gt;
+&lt;h2&gt;Next：2025年9月5日 月全食&lt;/h2&gt;
+&lt;p&gt;凌晨，难得的完整月食，已经是打工人的我就抽一点时间看一眼吧。&lt;/p&gt;
+</content><link href="/archives/Lunar-Eclipse/"/><published>2025-08-09T17:50:00+08:06</published></entry></feed>
